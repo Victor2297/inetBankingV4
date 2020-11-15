@@ -1,0 +1,11 @@
+2020-07-09 23:19:07 INFO  log:16 - Entered Username
+2020-07-09 23:19:07 INFO  log:18 - Entered Password
+2020-07-09 23:22:11 INFO  log:16 - Entered Username
+2020-07-09 23:22:11 INFO  log:18 - Entered Password
+2020-07-09 23:22:15 INFO  log:30 - Test passed
+2020-07-09 23:23:23 INFO  log:16 - Entered Username
+2020-07-09 23:23:23 INFO  log:18 - Entered Password
+2020-07-09 23:23:28 INFO  log:35 - Test failed
+2020-07-09 23:25:18 INFO  log:16 - Entered Username
+2020-07-09 23:25:18 INFO  log:18 - Entered Password
+2020-07-09 23:25:22 INFO  log:25 - Test failed
